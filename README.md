@@ -1,10 +1,9 @@
-# kaist-cs492
-Presentation document for kaist CS492 class - 20161103  
+#Presentation document for kaist CS492 class - 20161103  
 Session subject :Machine Learning developer in "Business"  
 Short URL : https://aka.ms/cs492  
 Github repo : https://github.com/CloudBreadPaPa/kaist-cs492  
 Download PDF in docs folder  
-slideshare link : TBD  
+slideshare link : http://www.slideshare.net/daewkim73/machine-learning-developer-in-business  
 
 Agenda
 - People using ML in business (10 min)
@@ -82,3 +81,8 @@ Predict real-time and batch task with shared Machine Learning model
 - ![CloudBread Game User Chrun](images/20-7.png)  
 
 Please, reference Postman collection and CloudBread-Machine-Learning source code  
+
+### Bot framework and Machine Learning
+Building Bot service w/ Bot Framework and Machine Learning, reference below github repo, please.  
+https://github.com/CloudBreadPaPa/d-party-bot-framework  
+
