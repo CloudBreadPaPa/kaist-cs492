@@ -1,5 +1,5 @@
 # kaist-cs492
-Presentation document for kaist CS492 class - 20161103
+Presentation document for kaist CS492 class - 20161103  
 Session subject :Machine Learning developer in "Business"  
 Short URL : https://aka.ms/cs492  
 Github repo : https://github.com/CloudBreadPaPa/kaist-cs492  
@@ -9,6 +9,7 @@ slideshare link : TBD
 Agenda
 - People using ML in business (10 min)
 - Machine Learning subsets including Deep Learning Toolkit CNTK and Tensorflow (20 min)
+- Bot framework and Machine Learning(10 min)
 - Building predictive model & deploy in Azure Machine Learning (20 min)
 - Q&A (10 min)
 
